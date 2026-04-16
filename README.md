@@ -32,7 +32,6 @@ I focus on building immersive digital worlds through code and 3D art. I'm a big 
 ### 📫 Get in Touch
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/zriharrieeythedev)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sreeharis7306@gmail.com)
-
----
+[<img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=googlechrome&logoColor=white">](https://zriharrieeythedev.github.io/portfolio/)
 
 *"Turning logic into experience."*
