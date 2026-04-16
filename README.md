@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm zriharrieeythedev
 
-<!--
-**zriharrieeythedev/zriharrieeythedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Developer | 🎮 Game Engine Enthusiast  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Game Engines: Unity, Unreal Engine  
+- Languages: C#, C++  
+- Tools: Blender (3D modeling & immersive rendering)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+- Software & Game Development  
+- Artificial Intelligence  
+- Vibecoding (coding with creativity & flow)  
+
+## 📫 Connect
+- GitHub: [(https://github.com/zriharrieeythedev)]
+- Email: [sreeharis7306@gmail.com]
